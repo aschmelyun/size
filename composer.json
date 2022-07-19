@@ -1,0 +1,24 @@
+{
+  "name": "aschmelyun/size",
+  "description": "Simple PHP helper to convert bytes to different sizes",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Andrew Schmelyun",
+          "email": "me@aschmelyun.com"
+      }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+      "psr-4": {
+        "Aschmelyun\\Size\\": "src/"
+      }
+  },
+  "require": {
+    "php": "^7.4|^8"
+  },
+  "require-dev": {
+    "pestphp/pest": "^1.21"
+  }
+}

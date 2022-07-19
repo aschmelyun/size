@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+npm-debug.log
+yarn-error.log
+.DS_Store
+composer.lock
+.idea
+/cache
+/dist
+.phpunit.result.cache
+mix-manifest.json

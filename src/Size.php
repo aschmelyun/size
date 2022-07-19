@@ -2,6 +2,26 @@
 
 namespace Aschmelyun\Size;
 
+/**
+ * @method static self B(int $size)
+ * @method static self KB(int $size)
+ * @method static self MB(int $size)
+ * @method static self GB(int $size)
+ * @method static self TB(int $size)
+ * @method static self PB(int $size)
+ * @method static self EB(int $size)
+ * @method static self ZB(int $size)
+ * @method static self YB(int $size)
+ * @method float toB()
+ * @method float toKB()
+ * @method float toMB()
+ * @method float toGB()
+ * @method float toTB()
+ * @method float toPB()
+ * @method float toEB()
+ * @method float toZB()
+ * @method float toYB()
+ */
 class Size
 {
     /**

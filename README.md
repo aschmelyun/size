@@ -29,6 +29,8 @@ $kilobytesInTwoMegabytes = Size::MB(2)->KB; // 2048
 
 **That's it!**
 
+The available properties are: `B, KB, MB, GB, TB, PB, EB, ZB, YB`
+
 ## Tests
 
 Size comes with a small suite of tests powered by [Pest](https://pestphp.com/). To run them, clone this repository and then use:
